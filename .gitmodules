@@ -34,3 +34,6 @@
 [submodule "Entities/momem"]
 	path = Entities/momem
 	url = git@github.com:TheSystemDevelopmentKit/momem.git
+[submodule "Entities/mosfet_parameter_extraction"]
+	path = Entities/mosfet_parameter_extraction
+	url = https://github.com/dhanashreeboopathy/mosfet_parameter_extraction.git
